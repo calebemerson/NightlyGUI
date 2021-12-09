@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\COP 3503 Projects\mingw32
+Options: 
+
+Options:

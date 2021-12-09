@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NightlyGUI.dir/objects.a
+C:\COP350~1\mingw32\bin\ar.exe cr CMakeFiles\NightlyGUI.dir/objects.a @CMakeFiles\NightlyGUI.dir\objects1.rsp
+C:\COP350~1\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\NightlyGUI.dir/objects.a -Wl,--no-whole-archive -o NightlyGUI.exe -Wl,--out-implib,libNightlyGUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NightlyGUI.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/wofar/CLionProjects/NightlyGUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/wofar/CLionProjects/NightlyGUI/cmake-build-debug/CMakeFiles/NightlyGUI.dir
+C:/Users/wofar/CLionProjects/NightlyGUI/cmake-build-debug/CMakeFiles/edit_cache.dir

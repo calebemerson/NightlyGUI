@@ -4,9 +4,4 @@
 node_modules
 dist
 .cache
-/main.cpp
-/edges.csv
-/CMakeLists.txt
-/TextureManager.cpp
-/TextureManager.h
-/cmake-build-debug/srcImg/
+
